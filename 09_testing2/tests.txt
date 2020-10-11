@@ -18,4 +18,15 @@ a%%%% b####
 \\\\\ /////
 
 12345 12345
+aaa   bb  c
+@$#!* !@#$%
+           
+ aaaa bbbbb
+aaaa  bbbbb
+abab  ab ab
+%%@*( 01234
+abbababababba
+aaaaa bbbbb nnnnn
+aaaaa aaaaa a
+aaaaaaaaaaa
 
