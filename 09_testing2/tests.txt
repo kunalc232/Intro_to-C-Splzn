@@ -1,32 +1,25 @@
+aaaaa bbbbb
+bbbcc bbbca
 aaaaa bbbbc
-aabba ccbcb
-aaaaa
-      bbbbb
-a%%%% b####
-           
-#     %    
-#     %
-0        0 
-0     0
-`      1`  
-`
-	@@@
-?//// //?//
-:'''' ::::'
-;;;;; :::::
-||||| |||||
-\\\\\ /////
+aabbb acbbb
+aaabb bbbcb
+aaaa bbbbb
+aaaaa aaaaa
+aaaaa bbbb
+aaaaaa bbbbb
+aaaaa bbbbbb
+$$&*( 01234
+aaaaa 
+aaaaa      
 
-12345 12345
-aaa   bb  c
-@$#!* !@#$%
            
- aaaa bbbbb
-aaaa  bbbbb
-abab  ab ab
-%%@*( 01234
-abbababababba
-aaaaa bbbbb nnnnn
-aaaaa aaaaa a
-aaaaaaaaaaa
-
+&^%$# *&^%$
+aabbc lmddd
+----- ~~~~~
+||||| &&&&&
+""""" '''''
+NULL  00000
+0 0
+aaaab cbbbb ddddd
+abbbb bbbba
+abbbb abbbb
